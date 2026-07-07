@@ -7,9 +7,10 @@ See the method #initializeNamedCharactersMap
 
 The source of the sketches is the I.L.Heiberg and H.Menge edition of Euclid's Elementa from the Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana.
 
-This is the Classical Greek and Latin edition of what could have been Euclid's "Elementa Euclidis".
 
-This is a multi-volume critical edition of what Euclid's work could have been, mostly based on a manuscript from the Vatican library, but also on some other manuscripts.
+This is the Classical Greek and Latin edition of what could have been Euclid's "Stoicheia" ("Elementa").
+
+This is a multi-volume critical edition of what Euclid's work could have been, mostly based on a manuscript from the Vatican library, but also on other manuscripts.
 
 My understanding is that the Latin translation was by Heiberg and Menge themselves, and that they worked mostly from Greek language sources.
 
@@ -28,4 +29,9 @@ Book 4
 
 	prop 4.  inscribe circle in a triangle
 	prop 5.  circumscribe circle around triangle 
+
+The second volume of the series bundles books on proportions and arithmetic.
+
+Book 7
+	prop 1.  criterion for relative prime numbers (katametre, metron, metrum)
 
