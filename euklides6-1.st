@@ -1,9 +1,9 @@
-| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N Z |
+| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N Y Z |
 
 sketch _ DrGeoSketch new.
 a _ 1@2.
 b _ -1@-2.
-c _ 0@-2.
+c _ 1@-2.
 d _ 2@-2.
 A _ sketch point:a.
 A cross.A name:'A'.
@@ -45,3 +45,5 @@ BE _ sketch segment:B to:E.
 BE large.
 AZ _ sketch segment:A to:Z.
 DZ _ sketch segment:D to:Z.
+Y _ sketch perpendicular:P at:A.
+Y color:Color red.

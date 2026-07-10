@@ -34,6 +34,7 @@ The second volume of the series bundles books on proportions and arithmetic.
 
 Book 6 
 	prop 1.  ratio triangle / parallelogram (trigona/parallelogramma)
+		 upsos (altitude)
 
 Book 7
 	prop 1.  criterion for relative prime numbers (katametre, metron, metrum)
