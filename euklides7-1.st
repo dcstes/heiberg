@@ -1,15 +1,15 @@
 | sketch S a b r unit x |
-sketch  DrGeoSketch new.
+sketch _ DrGeoSketch new.
 
-a  21.
-b  17.
-unit  0.2.
-x  -2.
+a _ 21.
+b _ 17.
+unit _ 0.2.
+x _ -2.
 
 [ (b >= 1) ] whileTrue: [
-	S  sketch segment:x@0 to:x@(a*unit).
+	S _ sketch segment:x@0 to:x@(a*unit).
 	S name:a.
-	x  (x + 1).
-	r  (a - b).
-	(b > r) ifTrue:[ a  b . b  r. ] ifFalse: [ a  r. ].
+	x _ (x + 1).
+	r _ (a - b).
+	(b > r) ifTrue:[ a _ b . b _ r. ] ifFalse: [ a _ r. ].
 ].
