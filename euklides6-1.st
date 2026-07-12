@@ -1,4 +1,4 @@
-| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N Y Z |
+| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N X Y Z x y |
 
 sketch _ DrGeoSketch new.
 a _ 1@2.
@@ -45,5 +45,9 @@ BE _ sketch segment:B to:E.
 BE large.
 AZ _ sketch segment:A to:Z.
 DZ _ sketch segment:D to:Z.
+X _ sketch perpendicular:F at:A.
+X color:Color red.
 Y _ sketch perpendicular:P at:A.
 Y color:Color red.
+x _ sketch intersectionOf:F and:X.
+y _ sketch intersectionOf:P and:Y.
