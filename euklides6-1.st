@@ -1,4 +1,4 @@
-| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N X Y Z x y |
+| sketch a b c d A B C D E BC AB AC CD AD AE BE DZ AZ F G H P Q M N X Y Z x y Ax Ay |
 
 sketch _ DrGeoSketch new.
 a _ 1@2.
@@ -46,8 +46,18 @@ BE large.
 AZ _ sketch segment:A to:Z.
 DZ _ sketch segment:D to:Z.
 X _ sketch perpendicular:F at:A.
-X color:Color red.
+X hide.
 Y _ sketch perpendicular:P at:A.
-Y color:Color red.
+Y hide.
 x _ sketch intersectionOf:F and:X.
 y _ sketch intersectionOf:P and:Y.
+Ax _ sketch segment:A to:x.
+Ay _ sketch segment:A to:y.
+Ax color:Color red.
+Ay color:Color red.
+sketch text:'Ratio base' at:1@5.
+sketch value:[(AB mathItem length) / (CD mathItem length) ] at:1@4.
+sketch text:'Ratio altitude' at:1@-4.
+sketch value:[(Ax mathItem length) / (Ay mathItem length) ] at:1@-5.
+sketch text:'Ratio surface' at:-3@-4.
+sketch value:[((Ax mathItem length) * (AB mathItem length)) / ((Ay mathItem length) * (CD mathItem length) )] at:-3@-5.
