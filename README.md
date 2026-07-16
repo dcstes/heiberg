@@ -16,11 +16,11 @@ His Euclid Elements is the Classical Greek and neo-Latin edition of what could h
 
 This is a multi-volume critical edition of what Euclid's work could have been, mostly based on a Euclid-like manuscript from the Vatican library (I believe from Byzantine origin, tenth century ?), rediscovered by Peyrard in the Vatican Lib, but also based on other manuscripts, such as tenth century Euclid-attributed manuscript Bodleian library, and based on authors who commented on Euclid (that is based other mathematical texts that refer to Euclid, some from classical times such as Proclus or Simplicius).
 
-But Menge and Heiberg fundamentally seem to have *fabricated* or *synthesised* a text, so their Euclid's Element should be regarded as a fabrication of the 19th century, although that Heiberg and Menge clearly indicate the various sources of their work and the various codices/manuscripts that they have consulted (so it is a very well argumented fabrication).
+But Menge and Heiberg fundamentally seem to have done a *comparative study* or to have composed a *synthesised* text, so their Euclid's Element should be regarded as a text created in the 19th century, although that Heiberg and Menge clearly indicate the various sources of their work and the various codices/manuscripts that they have consulted (so it is a very well argumented comparative study).
 
 My understanding is that the neo-Latin translation was by Heiberg and Menge themselves, and that they worked mostly from Greek language sources, but also from other medieval Latin sources (some of their neo-Latin terminology may have older precedents in Latin codices on Euclid).
 
-My understanding is that Heiberg and Menge's Euclid Elements is thus some sort of well argumented *reconstruction* of Euclid's lost work.
+My understanding is that Heiberg and Menge's Euclid Elements is thus some sort of well argumented *reconstruction* of Euclid's *lost* work.
 
 It should be remembered that Euclid's work is actually LOST, and that Heiberg/Menge is (very well critically argumented and researched) possible *reconstruction*.
 
