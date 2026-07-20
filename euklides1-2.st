@@ -40,3 +40,5 @@ L _ sketch intersectionOf: ADL and: X.
 L name:'L'.
 AL _ sketch segment:A to:L.
 AL large.
+sketch lengthOf:AL.
+sketch lengthOf:BC.
